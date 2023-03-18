@@ -1,0 +1,5 @@
+Ball{id='1'name='red', chance=20, count='5'}
+Robot{id='2'name='Ira', chance=20, count='7'}
+Car{id='3'name='Niva', chance=15, count='6'}
+Builder{id='4'name='Lego', chance=10, count='4'}
+Doll{id='5'name='Lena', chance=35, count='20'}
